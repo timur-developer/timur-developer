@@ -32,7 +32,7 @@
 
 - **[gcscope](https://github.com/timur-developer/gcscope)** — Open‑source terminal tool to visualize Go garbage collector in real time: STW pauses, memory usage, GC frequency.  
   **Helps developers find performance issues without reading raw logs.**  
-  🌟 30+ stars · [Habr (3k+ reads)](https://habr.com/ru/articles/1043034/) · [DEV.to](https://dev.to/timur-developer/i-built-a-visualizer-for-gos-garbage-collector-458h) · [Golang Bridge](https://forum.golangbridge.org/t/gcscope-a-terminal-ui-for-visualizing-go-gc-behavior/41994)  
+  🌟 25+ stars · [Habr (3k+ reads)](https://habr.com/ru/articles/1043034/) · [DEV.to](https://dev.to/timur-developer/i-built-a-visualizer-for-gos-garbage-collector-458h) · [Golang Bridge](https://forum.golangbridge.org/t/gcscope-a-terminal-ui-for-visualizing-go-gc-behavior/41994)  
   _Tech Stack:_ Go, runtime/metrics, gctrace, Bubble Tea
 
 - **[clickpulse](https://github.com/timur-developer/clickpulse)** — Event collector with batch writes to ClickHouse, Prometheus metrics, and Grafana dashboards.  
