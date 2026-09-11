@@ -27,7 +27,7 @@
   **Collects events via HTTP API, batches writes to ClickHouse, and exposes Prometheus metrics with Grafana dashboards.**
   *Tech Stack:* Go, ClickHouse, Prometheus, Grafana, Docker
 
-* **[logmsglint](https://github.com/timur-developer/logmsglint)** — Linter for Go projects that keeps log messages consistent and readable.
+* **[sayfmt](https://github.com/timur-developer/sayfmt)** — Linter for Go projects that keeps log messages consistent and readable.
   **Checks `log/slog` and `uber-go/zap` calls using AST analysis and supports automatic fixes via `SuggestedFix`.**
   *Tech Stack:* Go, go/analysis, golangci-lint, slog, zap
 
