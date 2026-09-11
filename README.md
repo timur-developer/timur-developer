@@ -35,7 +35,7 @@
 
 ## Writing
 
-I write technical articles and notes about Go, backend development, performance, and developer tools.
+I write technical articles and notes about backend development in Go, from everyday engineering practices to deeper dives into language internals.
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>Habr: <a href="https://habr.com/ru/users/timur-developer/" target="_blank">Link</a></div>
@@ -47,9 +47,14 @@ I write technical articles and notes about Go, backend development, performance,
 
 ## About
 
-I build backend services in Go with a focus on performance, observability, and developer experience.
+I build Go backends: from user flows and business logic to technical solutions
+that help services evolve reliably. I design APIs and data flows, and enjoy
+digging into existing systems to find constraints and simplify them for the
+long run.
 
-I study at Peter the Great St. Petersburg Polytechnic University and create open-source tools, backend projects, and technical articles in Russian and English.
+I study at Peter the Great St. Petersburg Polytechnic University and build
+open-source tools, product-focused backend projects, and technical articles
+in Russian and English.
 
 English: B2, Cambridge FCE certificate.
 
